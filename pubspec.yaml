@@ -1,7 +1,7 @@
 name: festivos_colombia
 description: Dart package to get colombian holidays
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/jessimalak/festivos_colombia
 
 environment:
   sdk: ^3.2.0
